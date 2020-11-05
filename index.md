@@ -4,6 +4,8 @@ title : Homepage
 permalink: /
 ---
 
+[Contact](/contact)
+
 ```
 markdown
 <!DOCTYPE html>
